@@ -1,6 +1,9 @@
 # DISS
 **대학생을 위한 학습·커뮤니티 웹 서비스**
-![시연영상](./media1.gif)
+
+<div align="center">
+  <img src="./introduce.gif" width="600"/>
+</div>
 
 ## 프로젝트 배경 및 목적
 
